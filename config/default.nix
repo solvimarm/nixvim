@@ -10,5 +10,7 @@
     ./telescope.nix
     ./lsp.nix
     ./treesitter.nix
+    ./zen.nix
+    ./git.nix
   ];
 }
