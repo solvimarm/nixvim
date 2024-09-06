@@ -13,5 +13,6 @@
     ./git.nix
     ./lualine.nix
     ./luasnip.nix
+    ./harpoon.nix
   ];
 }
