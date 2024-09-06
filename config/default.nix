@@ -5,5 +5,8 @@
     ./bufferline.nix 
     ./oil.nix
     ./keymaps.nix
+    ./noice.nix
+    ./cmp.nix
+    ./telescope.nix
   ];
 }
