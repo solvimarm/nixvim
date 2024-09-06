@@ -1,4 +1,4 @@
-{pkgs}: 
+{pkgs, ...}:
 {
         # Extra plugins not in nixvim options
         extraPlugins = with pkgs.vimPlugins; [
