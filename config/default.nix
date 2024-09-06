@@ -2,7 +2,6 @@
   # Import all your configuration modules here
   imports = [  
     ./options.nix
-    ./bufferline.nix 
     ./oil.nix
     ./keymaps.nix
     ./noice.nix
@@ -12,5 +11,7 @@
     ./treesitter.nix
     ./zen.nix
     ./git.nix
+    ./lualine.nix
+    ./luasnip.nix
   ];
 }
