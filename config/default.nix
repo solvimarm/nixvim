@@ -3,5 +3,6 @@
   imports = [ 
     ./bufferline.nix 
     ./oil.nix
+    ./keymaps.nix
   ];
 }
