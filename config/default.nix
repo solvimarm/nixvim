@@ -14,5 +14,6 @@
     ./lualine.nix
     ./luasnip.nix
     ./harpoon.nix
+    ./extraplugins.nix
   ];
 }
