@@ -8,5 +8,7 @@
     ./noice.nix
     ./cmp.nix
     ./telescope.nix
+    ./lsp.nix
+    ./treesitter.nix
   ];
 }
