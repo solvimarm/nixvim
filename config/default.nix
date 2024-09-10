@@ -1,3 +1,4 @@
+
 {
   # Import all your configuration modules here
   imports = [  
@@ -16,4 +17,6 @@
     ./harpoon.nix
     ./extraplugins.nix
   ];
+
+
 }
