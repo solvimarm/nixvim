@@ -16,6 +16,7 @@
     ./luasnip.nix
     ./harpoon.nix
     ./extraplugins.nix
+    ./markview.nix
   ];
 
 
