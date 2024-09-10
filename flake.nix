@@ -40,11 +40,7 @@
 
           packages = {
             # Lets you run `nix run .` to start nixvim
-            #default = nvim_flake;
-	    default = pkgs.buildEnv {
-              name = "nvim-flake-env";
-              paths = [ nvim_flake pkgs.ripgrep ];
-            };
+            default = nvim_flake;
           };
 	  #devShells.default = import ./shell.nix { inherit pkgs; };
         };
