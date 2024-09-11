@@ -7,6 +7,7 @@
             vim-dadbod-completion
             elixir-tools-nvim
             nvim-jqx
+	    vim-kitty-navigator
         ];
         extraConfigLua = "
             require('elixir').setup({
