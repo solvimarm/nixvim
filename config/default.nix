@@ -18,5 +18,6 @@
     ./extraplugins.nix
     ./markview.nix
     ./mini.nix
+    ./which_key.nix
   ];
 }
