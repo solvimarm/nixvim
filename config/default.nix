@@ -17,7 +17,6 @@
     ./harpoon.nix
     ./extraplugins.nix
     ./markview.nix
+    ./mini.nix
   ];
-
-
 }
