@@ -16,5 +16,21 @@
 			    desc = "[F]ormat [J]son string";
 			};
 		    }
+		    {
+			action = "<CMD>!tmux splitw -v<CR>";
+			key = "<C-w>S";
+			options = {
+			    silent = true;
+			    desc = "Split tmux Vertical";
+			};
+		    }
+		    {
+			action = "<CMD>!tmux splitw -h<CR>";
+			key = "<C-w>V";
+			options = {
+			    silent = true;
+			    desc = "Split tmux Horizontal";
+			};
+		    }
 		];
 }
