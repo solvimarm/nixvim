@@ -32,5 +32,13 @@
 			    desc = "Split tmux Horizontal";
 			};
 		    }
+		    {
+			action = "<CMD>ZenMode<CR>";
+			key = "<leader>zz";
+			options = {
+			    silent = true;
+			    desc = "toggle zen mode";
+			};
+		    }
 		];
 }
