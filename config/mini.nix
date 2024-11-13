@@ -7,6 +7,7 @@
 	ai = {};
 	pairs = {};
 	operators = {};
+	jump2d = {};
 	
     };
 }
