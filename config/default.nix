@@ -20,5 +20,6 @@
     ./mini.nix
     ./which_key.nix
     ./tmux.nix
+    ./obsidian.nix
   ];
 }
