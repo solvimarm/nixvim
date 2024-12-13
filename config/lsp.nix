@@ -14,6 +14,7 @@
                 nil-ls.enable = true;
                 pyright.enable = false;
                 jsonls.enable = false;
+		marksman.enable = true;
             };
             keymaps = {
                 diagnostic = {

@@ -12,6 +12,9 @@
 	      path = "~/ObsidianVault";
 	    }
 	];
+	ui = {
+	    enable = false;
+	};
 
    };
 }
