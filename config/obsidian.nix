@@ -9,7 +9,7 @@
 	workspaces = [
 	    {
 	      name = "vault";
-	      path = "~/ObsidianVault";
+	      path = "~/notes/";
 	    }
 	];
 	ui = {
