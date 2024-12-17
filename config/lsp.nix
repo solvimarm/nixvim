@@ -15,6 +15,7 @@
                 pyright.enable = false;
                 jsonls.enable = false;
 		marksman.enable = true;
+		ts_ls.enable = true;
             };
             keymaps = {
                 diagnostic = {
