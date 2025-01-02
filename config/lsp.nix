@@ -16,6 +16,7 @@
                 jsonls.enable = false;
 		marksman.enable = true;
 		ts_ls.enable = true;
+		gopls.enable = true;
             };
             keymaps = {
                 diagnostic = {
@@ -44,4 +45,6 @@
         plugins.none-ls = {
             enable = false;
         };
+
+	plugins.lsp-format.enable = true;
 }

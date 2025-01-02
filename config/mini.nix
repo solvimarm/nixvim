@@ -8,6 +8,7 @@
 	pairs = {};
 	operators = {};
 	jump2d = {};
+	files = {};
 	
     };
 }
