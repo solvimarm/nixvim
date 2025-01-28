@@ -8,8 +8,8 @@
 	new_notes_location = "current_dir";
 	workspaces = [
 	    {
-	      name = "vault";
-	      path = "~/notes/";
+	      name = "Second Brain";
+	      path = "~/Second Brain/";
 	    }
 	];
 	ui = {
